@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sunny-gd.gihub.io/static/css/main.e418d835.css",
+    "main.js": "/sunny-gd.gihub.io/static/js/main.e90f10ee.js",
+    "static/js/787.28cb0dcd.chunk.js": "/sunny-gd.gihub.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/sunny-gd.gihub.io/index.html",
+    "main.e418d835.css.map": "/sunny-gd.gihub.io/static/css/main.e418d835.css.map",
+    "main.e90f10ee.js.map": "/sunny-gd.gihub.io/static/js/main.e90f10ee.js.map",
+    "787.28cb0dcd.chunk.js.map": "/sunny-gd.gihub.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e418d835.css",
+    "static/js/main.e90f10ee.js"
+  ]
+}
