@@ -14,15 +14,7 @@ ul{
 li{
   margin: 0 10px;
 }
- /* &:first-child {
-    margin-left: 0;
-  }
 
-  &:last-child {
-    margin-right: 0;
-  }
-`;
-*/
 a{
   color: #fff;
   text-decoration: none;
@@ -35,3 +27,23 @@ a:hover {
     background-color: #fff;
     color: #333;
   }
+
+#mainBody {
+  font-family: sans-serif;
+  position:fixed;
+  margin-top: 250px;
+  margin-left: 450px;
+  /* width:30em;
+  height:18em; 
+  margin-top: -9em; 
+  margin-left: -15em; */
+  text-align: center;
+  color: rgba(255, 0, 0, 0.664);
+  border: 1px solid #ccc;
+  background-color: gray;
+}
+
+#mainBody p {
+  font-size: 50px;
+}
+

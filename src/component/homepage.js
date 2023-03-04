@@ -1,8 +1,9 @@
 import React from 'react';
-import './homeStyle.css';
+import '../css/homeStyle.css';
 
 function NavigationBar() {
   return (
+  <div>
     <nav>
       <a href="/">Home</a>
       <ul>
@@ -14,6 +15,10 @@ function NavigationBar() {
         </li>
       </ul>
     </nav>
+
+    <div id="mainBody"> <p> We are under construction..</p></div>
+    
+  </div>
   );
 }
 
