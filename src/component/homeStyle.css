@@ -1,0 +1,37 @@
+nav{
+  background-color: #333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+ul{
+  display: flex;
+  list-style: none;
+}
+
+li{
+  margin: 0 10px;
+}
+ /* &:first-child {
+    margin-left: 0;
+  }
+
+  &:last-child {
+    margin-right: 0;
+  }
+`;
+*/
+a{
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 5px;
+  border-radius: 5px;
+}
+a:hover {
+    background-color: #fff;
+    color: #333;
+  }
